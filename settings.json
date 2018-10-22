@@ -1,7 +1,6 @@
 {
-    "botFbUser": "",
-    "botFbPassword": "",
-	"myFbId": "",
+    "token": "",
+    "user": "",
 	"subreddit":[
         "PokemonTCG",
 		"pokemontcgo",
